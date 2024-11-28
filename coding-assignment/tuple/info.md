@@ -1,4 +1,4 @@
-# Add any 20 Coding Questions based on Tuple in Python with file_name
+# Add any 10 Coding Questions based on Tuple in Python with file_name
 
 ```
 tuple_q01.py
